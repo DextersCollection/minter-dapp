@@ -74,8 +74,9 @@ header .container {
 
 .menu {
   display: flex;
-  gap: 1rem;
-  align-items: right;
+  gap: 2rem;
+  align-items: center;
+  padding: 20px;
 }
 
 /* NOT CONNECTED */
