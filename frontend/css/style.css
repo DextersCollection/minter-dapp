@@ -23,7 +23,11 @@
   box-sizing: border-box;
 }
 
-body {
+body { 
+  --font-primary: "Poppins", sans-serif;
+  --bg-color: #617d66;
+  --bg-color-transparent: #f5e5b1;
+  --font-color: #674627;
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
