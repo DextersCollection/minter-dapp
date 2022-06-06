@@ -63,6 +63,11 @@ header {
   --font-color: #674627;
   background-color: var(--bg-color);
   box-shadow: var(--header-shadow);
+  text-shadow: 2px 2px 0 var(--accent-color);
+  font-style: italic;
+  margin: 2rem 0;
+  font-size: 3.5rem;
+  text-align: center;
 }
 
 header .container {
