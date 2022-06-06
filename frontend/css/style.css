@@ -63,6 +63,7 @@ header {
   box-shadow: var(--header-shadow);
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
+  overflow: hidden;
 }
 
 header .container {
