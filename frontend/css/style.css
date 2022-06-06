@@ -75,11 +75,15 @@ header .container {
 
 .menu {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
   align-items: right;
   padding: 40px 20px 20px 20px;
-  margin-bottom: 10px;
 }
+.wallet-btn {
+  padding-top: 10px;
+}
+
+
 
 /* NOT CONNECTED */
 .not-connected {
