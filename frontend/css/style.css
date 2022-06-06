@@ -40,9 +40,15 @@ body {
   height: 100vh;
   color: var(--font-color);
   font-family: var(--font-primary);
+  margin-top: 10px;
   overflow: scroll;
 }
+.welcome {  
+  --font-primary: "Poppins", sans-serif;
+  --font-color: #ffffff;
+margin-bottom: auto;
 
+}
 .container {
   display: flex;
   flex-direction: column;
