@@ -42,7 +42,6 @@ body {
   color: var(--font-color);
   font-family: var(--font-primary);
   margin-top: 10px;
-  overflow: scroll;
 }
 .container {
   display: flex;
