@@ -41,6 +41,7 @@ body {
   color: var(--font-color);
   font-family: var(--font-primary);
   margin-top: 10px;
+  overflow: hidden;
 }
 .container {
   display: flex;
