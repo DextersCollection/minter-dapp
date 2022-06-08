@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Grenade Goons NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = "Grenade Goons is a veteran created NFT project with mission to connect and network with other vets and military supporters trying to get into the NFT and Crypto spaces!" ;
+const welcome_p = "Grenade Goons is a veteran created NFT project consisting of 3000 cartoon grenade characters. Our Teams mission is to help connect other vets with the people and tools necessary to be successful in the NFT space! Moons out Goons out!" ;
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
